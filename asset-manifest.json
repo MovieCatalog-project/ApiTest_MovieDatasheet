@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ApiTest_MovieDatasheet/static/css/main.d3fb4703.css",
+    "main.js": "/ApiTest_MovieDatasheet/static/js/main.22f1b61c.js",
+    "static/js/488.21e78e5c.chunk.js": "/ApiTest_MovieDatasheet/static/js/488.21e78e5c.chunk.js",
+    "index.html": "/ApiTest_MovieDatasheet/index.html",
+    "main.d3fb4703.css.map": "/ApiTest_MovieDatasheet/static/css/main.d3fb4703.css.map",
+    "main.22f1b61c.js.map": "/ApiTest_MovieDatasheet/static/js/main.22f1b61c.js.map",
+    "488.21e78e5c.chunk.js.map": "/ApiTest_MovieDatasheet/static/js/488.21e78e5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3fb4703.css",
+    "static/js/main.22f1b61c.js"
+  ]
+}
