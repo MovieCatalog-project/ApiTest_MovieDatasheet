@@ -10,6 +10,7 @@ const Poster = () => {
     <div>
         <img src={`https://image.tmdb.org/t/p/original${movieData.poster_path}`} 
         alt={movieData.title || 'Movie Poster'}  />
+        <h1>{movieData.tagline}</h1>
     </div>
   )
 }
